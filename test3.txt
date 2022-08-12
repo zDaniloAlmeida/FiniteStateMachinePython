@@ -1,0 +1,8 @@
+7
+abbc
+cabb
+abb
+abbabbabbabbabbc
+cccabb
+abbabbabbabb
+abbaaabbaabbabb
